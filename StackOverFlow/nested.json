@@ -1,0 +1,48 @@
+{
+    "message": {
+        "event": {
+            "clientSessionId": "c6411c02-f361-4f0e-893f-d180e9b74a5d",
+            "details": {
+                "network": {
+                    "effectiveType": "4g"
+                },
+                "viewport": {
+                    "availHeight": 824,
+                    "availWidth": 1536,
+                    "innerHeight": 754,
+                    "innerWidth": 1536,
+                    "outerHeight": 824,
+                    "outerWidth": 1536,
+                    "pageXOffset": 0,
+                    "pageYOffset": 1.476800048828125e+03,
+                    "size": "large"
+                }
+            },
+            "domain": "home_services",
+            "object": "schedule_installation",
+            "page": {
+                "app": "mover",
+                "environment": "production",
+                "name": "_",
+                "url": "https://someplace.com",
+                "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57"
+            },
+            "timestamp": 1607631617291,
+            "user": {
+                "email": "xxxyccghh@gmail.com",
+                "move": {
+                    "id": "7650837",
+                    "journey": "standard",
+                    "ownership": "own"
+                },
+                "moveId": "7650837",
+                "test": false,
+                "uuid": "40350560-2846-4d8a-a8b1-425acddc0fed"
+            },
+            "verb": "viewed"
+        }
+    },
+    "message_id": "0bebdf49-42db-4c53-9217-701a23c41161",
+    "timestamp": "2020-12-10 20:20:16.000 Z",
+    "type": "event.eventstream.home_services.schedule_installation.viewed"
+}
