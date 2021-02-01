@@ -1,0 +1,138 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pycodestyle >=2.6",
+    "python",
+    "toml"
+  ],
+  "extracted_package_dir": "/Users/ebrucucen/opt/anaconda3/pkgs/autopep8-1.5.4-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/AUTHORS.rst",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/LICENSE",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/METADATA",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/RECORD",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/REQUESTED",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/WHEEL",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/direct_url.json",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/entry_points.txt",
+    "lib/python3.8/site-packages/autopep8-1.5.4.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/autopep8.py",
+    "lib/python3.8/site-packages/__pycache__/autopep8.cpython-38.pyc",
+    "bin/autopep8"
+  ],
+  "fn": "autopep8-1.5.4-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/ebrucucen/opt/anaconda3/pkgs/autopep8-1.5.4-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "e5a007c7520d70e6d65840b563cee8df",
+  "name": "autopep8",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/ebrucucen/opt/anaconda3/pkgs/autopep8-1.5.4-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "b624cfb1bcc697d76d5c23045976d6495d736a7d4cf81a16b628b1b38e862169",
+        "sha256_in_prefix": "b624cfb1bcc697d76d5c23045976d6495d736a7d4cf81a16b628b1b38e862169",
+        "size_in_bytes": 2003
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8d1d0238e48543441914cab0741d4de3e070a1b8367f787af5f209afb60b096a",
+        "sha256_in_prefix": "8d1d0238e48543441914cab0741d4de3e070a1b8367f787af5f209afb60b096a",
+        "size_in_bytes": 1181
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c46594a4edcd6008455679072fba0ff695e636b4c2725ffe7d9942931240a38f",
+        "sha256_in_prefix": "c46594a4edcd6008455679072fba0ff695e636b4c2725ffe7d9942931240a38f",
+        "size_in_bytes": 16767
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1e1e308ebd4aae947f568b86910eec5e8cecb2926c65d91f22f31141e47cb2f8",
+        "sha256_in_prefix": "1e1e308ebd4aae947f568b86910eec5e8cecb2926c65d91f22f31141e47cb2f8",
+        "size_in_bytes": 1051
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "bc816bb803a8cc4a4fcf3419e7f0720554b44db49c4da72163e781faace55ce2",
+        "sha256_in_prefix": "bc816bb803a8cc4a4fcf3419e7f0720554b44db49c4da72163e781faace55ce2",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "88735ae7f7125f0d9a6e555b4667e2146306d4236ba443d10848e7de7b29689f",
+        "sha256_in_prefix": "88735ae7f7125f0d9a6e555b4667e2146306d4236ba443d10848e7de7b29689f",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "site-packages/autopep8-1.5.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b36c7e762dd00701b1afb91de7112bb76a689bc76c15174835b9b0b0e1202df5",
+        "sha256_in_prefix": "b36c7e762dd00701b1afb91de7112bb76a689bc76c15174835b9b0b0e1202df5",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/autopep8.py",
+        "path_type": "hardlink",
+        "sha256": "f79c33be6920e0c1f5ef6ea0217a5448505a135e5274d8d35063dc029da92c9f",
+        "sha256_in_prefix": "f79c33be6920e0c1f5ef6ea0217a5448505a135e5274d8d35063dc029da92c9f",
+        "size_in_bytes": 153775
+      },
+      {
+        "_path": "lib/python3.8/site-packages/__pycache__/autopep8.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/autopep8",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "autopep8",
+  "sha256": "9451bf0f13f83c620367802426389a008b54ecb39c5b0400f0672998325a1e42",
+  "size": 41863,
+  "subdir": "noarch",
+  "timestamp": 1596345733123,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/autopep8-1.5.4-pyh9f0ad1d_0.tar.bz2",
+  "version": "1.5.4"
+}

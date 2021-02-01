@@ -1,0 +1,29 @@
+name: python3.8_mm
+channels:
+  - conda-forge
+  - defaults
+  - mro
+dependencies:
+  - jupyterlab=0.35.*
+  - matplotlib=3.0.*
+  - pandas=0.24.*
+  - python=3.8.*
+  - scikit-learn=0.20.*
+  - rake_nltk
+  - beautifulsoup4
+  - python=3.7.*
+  - psycopg2=2.8.*
+  - requests=2.21.*
+  - pymongo=3.7.*
+  - pytest=4.4.*
+  - scikit-learn=0.20.*
+  - scipy=1.2.*
+  - seaborn=0.9.*
+  - statsmodels=0.9.*
+  - flake8=3.7.*
+  - openpyxl=2.6.*
+  - pip=19.0.*
+  - pip:
+      - pycryptodomex==3.8.1
+      - pytest-mpl==0.10.*
+      - pytest-cov==2.6.*
