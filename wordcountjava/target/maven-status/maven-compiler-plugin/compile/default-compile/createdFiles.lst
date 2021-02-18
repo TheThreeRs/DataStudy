@@ -1,0 +1,3 @@
+org/apache/hadoop/examples/MovieRating$IntSumReducer.class
+org/apache/hadoop/examples/MovieRating$TokenizerMapper.class
+org/apache/hadoop/examples/MovieRating.class
